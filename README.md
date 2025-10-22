@@ -6,8 +6,7 @@ A lightweight **Tampermonkey** userscript that hides YouTube's regional country 
 
 ## 📷 Before vs After
 
-![Before vs After](images
-/Before%20vs%20After.png)
+![Before vs After](images/Before%20vs%20After.png)
 
 ---
 
