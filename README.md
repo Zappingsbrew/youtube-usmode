@@ -38,7 +38,7 @@ if (el && el.style.display !== 'none') el.style.display = 'none';
    * [Edge](https://tampermonkey.net/?ext=dhdg&browser=edge)
 
 2. Download or open the userscript:
-   [youtube-us-mode.user.js](https://github.com/Zappingsbrew/YouTube-US-Mode/raw/main/youtube-us-mode.user.js)
+   [youtube-us-mode.user.js](https://github.com/Zappingsbrew/youtube-usmode/raw/main/youtube-usmode.user.js)
 
 3. Click **Install** in Tampermonkey.
 
