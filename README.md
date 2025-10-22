@@ -6,7 +6,7 @@ A lightweight **Tampermonkey** userscript that hides YouTube's regional country 
 
 ## 📷 Before vs After
 
-![Before vs After](images/Before%20vs%20After.png)
+![Before vs After](assets/Before%20vs%20After.png)
 
 ---
 
@@ -19,4 +19,8 @@ A lightweight **Tampermonkey** userscript that hides YouTube's regional country 
 ---
 
 ## 🧠 How It Works
-The script continuously looks for the `#country-code` element on YouTube and hides it using a lightweigh
+The script continuously looks for the `#country-code` element on YouTube and hides it using a lightweight DOM observer.
+
+```js
+const el = document.querySelector('span#country-code');
+if (el && el.style.display !== 'none') el.style.display = 'none';
