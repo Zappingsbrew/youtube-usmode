@@ -1,6 +1,7 @@
 # YouTube US Mode (Hide Region Label)
 
 A lightweight **Tampermonkey** userscript that hides YouTube's regional country code (like “PH”, “IN”, etc.) to make the site appear cosmetically identical to the **U.S. version**.
+> ⚠️ Note: This script is primarily for personal use. It is considered stable and unlikely to need updates. If YouTube changes its top bar layout, updates may be released.
 
 ---
 
