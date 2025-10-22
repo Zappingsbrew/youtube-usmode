@@ -18,3 +18,10 @@ The script continuously looks for the `#country-code` element on YouTube and hid
 ```js
 const el = document.querySelector('span#country-code');
 if (el && el.style.display !== 'none') el.style.display = 'none';
+
+---
+
+## Before vs After
+
+![Before vs After](Before%20vs%20After.png)
+
