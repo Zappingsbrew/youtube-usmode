@@ -24,3 +24,39 @@ The script continuously looks for the `#country-code` element on YouTube and hid
 ```js
 const el = document.querySelector('span#country-code');
 if (el && el.style.display !== 'none') el.style.display = 'none';
+````
+
+---
+
+## ⚙️ Installation
+
+1. Install **Tampermonkey** for your browser:
+
+   * [Chrome](https://tampermonkey.net/?ext=dhdg&browser=chrome)
+   * [Firefox](https://tampermonkey.net/?ext=dhdg&browser=firefox)
+   * [Edge](https://tampermonkey.net/?ext=dhdg&browser=edge)
+
+2. Download or open the userscript:
+   [youtube-us-mode.user.js](https://github.com/Zappingsbrew/YouTube-US-Mode/raw/main/youtube-us-mode.user.js)
+
+3. Click **Install** in Tampermonkey.
+
+4. Reload YouTube — the country code under the logo will now be hidden, giving the site a U.S. look.
+
+---
+
+## 🤖 Transparency & Credits
+
+This README and accompanying documentation were written entirely by **ChatGPT (GPT-5)**.  
+
+- The **userscript code** was authored by **Zappingsbrew**.  
+- ChatGPT generated the **README structure, sections, formatting, and descriptive text**.  
+- This userscript is purely cosmetic and does **not modify YouTube functionality** or collect any personal data.  
+
+---
+
+## 🧾 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+© 2025 **Zappingsbrew**
