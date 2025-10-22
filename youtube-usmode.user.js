@@ -6,8 +6,8 @@
 // @author       Zappingsbrew & ChatGPT (GPT 5)
 // @match        https://www.youtube.com/*
 // @icon         https://github.com/twitter/twemoji/blob/master/assets/72x72/1f1fa-1f1f8.png?raw=true
-// @updateURL    https://github.com/<YOUR_USERNAME>/youtube-usmode/raw/main/youtube-usmode.user.js
-// @downloadURL  https://github.com/<YOUR_USERNAME>/youtube-usmode/raw/main/youtube-usmode.user.j
+// @updateURL    https://github.com/Zappingsbrew/youtube-usmode/raw/main/youtube-usmode.user.js
+// @downloadURL  https://github.com/Zappingsbrew/youtube-usmode/raw/main/youtube-usmode.user.j
 // @run-at       document-end
 // @license      MIT
 // ==/UserScript==
