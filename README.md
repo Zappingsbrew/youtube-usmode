@@ -50,7 +50,8 @@ if (el && el.style.display !== 'none') el.style.display = 'none';
 
 This README and accompanying documentation were written entirely by **ChatGPT (GPT-5)**.  
 
-- The **userscript code** was authored by **Zappingsbrew**.  
+- The **userscript code** was authored by **ChatGPT (GPT-5)**.
+- The **userscript code** was published by **Zappingsbrew**.  
 - ChatGPT generated the **README structure, sections, formatting, and descriptive text**.  
 - This userscript is purely cosmetic and does **not modify YouTube functionality** or collect any personal data.  
 
