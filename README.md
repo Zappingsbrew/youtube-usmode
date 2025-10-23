@@ -43,6 +43,13 @@ if (el && el.style.display !== 'none') el.style.display = 'none';
 3. Click **Install** in Tampermonkey.
 
 4. Reload YouTube — the country code under the logo will now be hidden, giving the site a U.S. look.
+---
+
+## 🔗 Links
+
+- [GitHub](https://github.com/Zappingsbrew/youtube-usmode) – View the repository and source code  
+- [OpenUserJS](https://openuserjs.org/scripts/Zappingsbrew/YouTube_Cosmetic_US_Mode_(Hide_Region_Label)) – Install the userscript  
+- [Greasy Fork](https://greasyfork.org/en/scripts/553385-youtube-cosmetic-us-mode-hide-region-label) – Official Tampermonkey install page
 
 ---
 
