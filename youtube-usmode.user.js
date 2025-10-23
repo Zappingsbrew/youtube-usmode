@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         YouTube Cosmetic US Mode (Hide Region Label)
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.0.1
 // @description  Hides YouTube's country code to mimic the US version (no "PH", "IN", etc. shown).
-// @author       Zappingsbrew & ChatGPT (GPT 5)
+// @author       Zappingsbrew & ChatGPT (GPT-5)
 // @match        https://www.youtube.com/*
 // @icon         https://github.com/twitter/twemoji/blob/master/assets/72x72/1f1fa-1f1f8.png?raw=true
 // @updateURL    https://github.com/Zappingsbrew/youtube-usmode/releases/latest/download/youtube-usmode.user.js
