@@ -1,3 +1,17 @@
+// ==UserScript==
+// @name         YouTube Cosmetic US Mode (Hide Region Label)
+// @namespace    http://tampermonkey.net/
+// @version      1.0.2
+// @description  Hides YouTube's country code to mimic the US version (no "PH", "IN", etc. shown).
+// @author       Zappingsbrew & ChatGPT (GPT-5)
+// @match        https://www.youtube.com/*
+// @icon         https://github.com/twitter/twemoji/blob/master/assets/72x72/1f1fa-1f1f8.png?raw=true
+// @updateURL    https://github.com/Zappingsbrew/youtube-usmode/releases/latest/download/youtube-usmode.user.js
+// @downloadURL  https://github.com/Zappingsbrew/youtube-usmode/releases/latest/download/youtube-usmode.user.js
+// @run-at       document-end
+// @license      MIT
+// ==/UserScript==
+
 /*!
  * MIT License
  * 
@@ -21,20 +35,6 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
-
-// ==UserScript==
-// @name         YouTube Cosmetic US Mode (Hide Region Label)
-// @namespace    http://tampermonkey.net/
-// @version      1.0.2
-// @description  Hides YouTube's country code to mimic the US version (no "PH", "IN", etc. shown).
-// @author       Zappingsbrew & ChatGPT (GPT-5)
-// @match        https://www.youtube.com/*
-// @icon         https://github.com/twitter/twemoji/blob/master/assets/72x72/1f1fa-1f1f8.png?raw=true
-// @updateURL    https://github.com/Zappingsbrew/youtube-usmode/releases/latest/download/youtube-usmode.user.js
-// @downloadURL  https://github.com/Zappingsbrew/youtube-usmode/releases/latest/download/youtube-usmode.user.js
-// @run-at       document-end
-// @license      MIT
-// ==/UserScript==
 
 (function () {
   'use strict';
